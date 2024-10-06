@@ -1,6 +1,6 @@
 ## Hi 👋 I'M ANANDA MURTHY S
 # 💫 About Me:
-I'm ANANDA MURTHY S, a engineering students passionate about programming languages,tools,  interested in web development. I enjoy contributing to open-source projects, building innovative solutions, and learning new technologies.
+I'm ANANDA MURTHY S, engineering students passionate about programming languages,tools,  interested in web development. I enjoy contributing to open-source projects, building innovative solutions, and learning new technologies.
 
 - 💻 Currently working on projects
 - 🌱 Always learning languages, frameworks, new skills.
